@@ -1,5 +1,8 @@
 # Coup Game C++
 
+![image](https://user-images.githubusercontent.com/92504985/167398468-c3ae3f0d-3403-4d31-997e-d7663622d0bc.png)
+
+
 # Description
 Implementation of the game coup , coup game including 2-6 players that plays against each other , the last who survive wins.
 This project including few classes:
