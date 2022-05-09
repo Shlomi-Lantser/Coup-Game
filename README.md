@@ -54,7 +54,6 @@ In the beggining of the game every player that joined the game will get a random
 the goal of the game its to coup all the players around with coins and strategy actions with them.
 * If player has 10 coins in the beggining of his turn he must coup someone.
 * Blocking doesnt need to be in the player's turn (could do it everytime) and doesnt spending turn.
-
-
+* Turns will be determinate following the join order.
         
                  
