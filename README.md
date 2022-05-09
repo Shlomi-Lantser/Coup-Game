@@ -1,6 +1,6 @@
 # Coup Game C++
 
-![image](https://user-images.githubusercontent.com/92504985/167398468-c3ae3f0d-3403-4d31-997e-d7663622d0bc.png)
+![image-removebg-preview](https://user-images.githubusercontent.com/92504985/167398597-ef93019e-a8e7-4e29-8044-833dbbac6ea1.png)
 
 
 # Description
