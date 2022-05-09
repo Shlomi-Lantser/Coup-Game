@@ -20,12 +20,12 @@ Attributes :
 * started - boolean that determinate if the game has been started.
 
 Methods:
-* void addPlayer(Player &player) - Adding the given player to the game (Cannot be added if the game has been started.)
-* vector<string> players() - returns the active players data structor.
-* string turn() - returns the name of the player who playing right now.
-* string winner() - returns the winner name only if the game is over.
-* int numberOfPlayers() - return the number of players.
-* void finishTurn() - promoting the turn index.
+* `addPlayer(Player &player)` - Adding the given player to the game (Cannot be added if the game has been started.)
+* `players()` - returns the active players data structor.
+* `turn()` - returns the name of the player who playing right now.
+* `winner()` - returns the winner name only if the game is over.
+* `int numberOfPlayers()` - return the number of players.
+* `finishTurn()` - promoting the turn index.
 
 # Player description:
 Attributes :
@@ -36,9 +36,9 @@ Attributes :
 * map<string , Player*> - The last blockable action that this player did. 
 
 Methods:
-* income - recieving 1 coin from the treasury
-* foreign_aid - receiving 2 coins from the treasury (that action can be blocked by duke)
-* coup(Player &player) - to "kill" given player.
+* `income` - recieving 1 coin from the treasury
+* `foreign_aid` - receiving 2 coins from the treasury (that action can be blocked by duke)
+* `coup(Player &player)` - to "kill" given player.
 
 # Roles and abillities:
 * **Duke** - Can take tax of 3 coins from the treasury , this action cannot be blocked by no one in addition the duke could block foreign_aid from every player.
